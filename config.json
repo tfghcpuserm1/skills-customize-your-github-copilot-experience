@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "fastapi-sqlite",
+      "title": "Persisting FastAPI Data with SQLite",
+      "description": "Extend the FastAPI books API with SQLite persistence so CRUD data survives server restarts.",
+      "path": "assignments/fastapi-sqlite",
+      "dueDate": "2026-10-09",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
